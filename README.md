@@ -1,9 +1,5 @@
-# React Native Firebase ML Text Recognition for Nox-Expo Workflow
+# React Native Firebase ML Text Recognition
 
-Clone this repository by running:
+Prova de conceito de OCR em React Native
 
-```bash
-git clone https://github.com/zolomohan/react-native-firebase-ml-text-recognition.git
-```
-
-Add your `google-services.json` file to the `android/app` directory for the app to work.
+> :warning:  library deprecated
