@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77371046490",
+    "project_id": "text-recognition-zelo",
+    "storage_bucket": "text-recognition-zelo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77371046490:android:384437968118079d7cf663",
+        "android_client_info": {
+          "package_name": "com.junio.textrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77371046490-055t1kohunvemv7gruetortojvjmcvip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD65nJNpp0OT3jKxnwsrO-taKsWW9iLC18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77371046490-055t1kohunvemv7gruetortojvjmcvip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
